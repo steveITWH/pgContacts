@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget>
-	<gap:plugin name="Contacts" value="org.apache.cordova.ContactManager" />
+	<plugin name="Contacts" value="org.apache.cordova.ContactManager" />
 </widget>
